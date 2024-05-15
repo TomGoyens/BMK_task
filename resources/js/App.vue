@@ -3,7 +3,7 @@
 
 <template>
     <v-layout class="rounded rounded-md">
-        <v-app-bar title="Application bar"></v-app-bar>
+        <v-app-bar title="BMK Solutions"></v-app-bar>
 
         <v-navigation-drawer>
             <v-list>
